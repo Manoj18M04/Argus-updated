@@ -1,6 +1,6 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+train: train/images
+val: valid/images
+test: test/images
 
 nc: 2
 names: ['Indian Plate - v1 2024-02-28 9-18pm', 'object']
