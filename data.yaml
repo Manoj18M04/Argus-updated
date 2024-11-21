@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['Indian Plate - v1 2024-02-28 9-18pm', 'object']
+
+roboflow:
+  workspace: vikas-ykiwy
+  project: object-detection-bounding-box-js5eg
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/vikas-ykiwy/object-detection-bounding-box-js5eg/dataset/1
